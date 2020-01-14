@@ -1,0 +1,32 @@
+[
+	{
+		"itemID" : "1",
+		"Name" : "ItemName1",
+		"Course" : "Main Course",
+		"Price" : 100
+	},
+	{
+		"itemID" : "2",
+		"Name" : "ItemName2",
+		"Course" : "Main Course",
+		"Price" : 200
+	},
+	{
+		"itemID" : "3",
+		"Name" : "ItemName3",
+		"Course" : "Starter",
+		"Price" : 300
+	},
+	{
+		"itemID" : "4",
+		"Name" : "ItemName4",
+		"Course" : "Dessert",
+		"Price" : 400
+	},
+	{
+		"itemID" : "5",
+		"Name" : "ItemName5",
+		"Course" : "Appetizers",
+		"Price" : 500
+	}
+]
